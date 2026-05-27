@@ -181,11 +181,10 @@ ESG Score = (Environmental × 40%) + (Social × 30%) + (Governance × 30%)
 **Varshitha Sharigudam**
 🎓 B.Tech Data Science Student — Mahatma Gandhi Institute of Technology
 
-📧 varshithasharigudam@gmail.com
+[![Email](https://img.shields.io/badge/Email-varshithasharigudam@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshithasharigudam@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshitha-sharigudam-8b36722b8/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varshitha201005)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://esg-risk-platform-q9uc8ktfzwtu3ny6mpeepe.streamlit.app)
-
 ---
 
 ## 📄 License
