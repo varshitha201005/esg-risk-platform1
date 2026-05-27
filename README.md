@@ -167,7 +167,7 @@ An Android APK is available that wraps the web app in a native Android shell.
 - Built with Android Studio
 - Uses WebView to load the Streamlit app
 - Works on Android 7.0+ (API 24+)
-- [⬇️ Download TripleLens APK](https://github.com/varshitha201005/esg-risk-platform/releases/download/v1.0.0/TripleLens-v1.0.0.apk)
+- [⬇️ Download TripleLens APK](https://github.com/varshitha201005/esg-risk-platform1/releases/download/v1.0.0/TripleLens-v1.0.0.apk)
 
 ---
 
@@ -180,8 +180,8 @@ ESG Score = (Environmental × 40%) + (Social × 30%) + (Governance × 30%)
 
 **Varshitha Sharigudam**
 🎓 B.Tech Data Science Student — Mahatma Gandhi Institute of Technology
-📧 varshithasharigudam@gmail.com
 
+📧 varshithasharigudam@gmail.com
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshitha-sharigudam-8b36722b8/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varshitha201005)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://esg-risk-platform-q9uc8ktfzwtu3ny6mpeepe.streamlit.app)
