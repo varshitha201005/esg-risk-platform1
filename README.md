@@ -14,7 +14,7 @@ A full-stack ESG (Environmental, Social, and Governance) Risk Analysis Platform 
 
 🌐 **Web App:** [Click here to open TripleLens](https://esg-risk-platform-q9uc8ktfzwtu3ny6mpeepe.streamlit.app)
 
-📱 **Android APK:** [Download TripleLens v1.0.0](https://github.com/varshitha201005/esg-risk-platform/releases/download/v1.0.0/TripleLens-v1.0.0.apk)
+📱 **Android APK:** [Download TripleLens v1.0.0](https://github.com/varshitha201005/esg-risk-platform1/releases/download/v1.0.0/TripleLens-v1.0.0.apk)
 
 ---
 
