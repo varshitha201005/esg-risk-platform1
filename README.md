@@ -5,14 +5,14 @@
 A full-stack ESG (Environmental, Social, and Governance) Risk Analysis Platform that helps investors analyze companies and predict investment risk levels using Machine Learning.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/varshitha201005/esg-risk-platform/main/esg-risk-platform1/esg_logo.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/varshitha201005/esg-risk-platform1/main/esg_logo.png" width="200"/>
 </p>
 
 ---
 
 ## 🚀 Live Demo
 
-🌐 **Web App:** [Click here to open TripleLens](https://esg-risk-platform-q9uc8ktfzwtu3ny6mpeepe.streamlit.app)
+🌐 **Web App:** [Click here to open TripleLens](https://esg-risk-platform.streamlit.app/)
 
 📱 **Android APK:** [Download TripleLens v1.0.0](https://github.com/varshitha201005/esg-risk-platform1/releases/download/v1.0.0/TripleLens-v1.0.0.apk)
 
@@ -141,10 +141,10 @@ The platform accepts any CSV dataset with the following columns:
 
 ```bash
 # Clone the repository
-git clone https://github.com/varshitha201005/esg-risk-platform.git
+git clone https://github.com/varshitha201005/esg-risk-platform1.git
 
 # Navigate to project folder
-cd esg-risk-platform/esg-risk-platform1
+cd esg-risk-platform1
 
 # Create virtual environment
 python -m venv venv
@@ -184,7 +184,7 @@ ESG Score = (Environmental × 40%) + (Social × 30%) + (Governance × 30%)
 [![Email](https://img.shields.io/badge/Email-varshithasharigudam@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshithasharigudam@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshitha-sharigudam-8b36722b8/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varshitha201005)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://esg-risk-platform-q9uc8ktfzwtu3ny6mpeepe.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://esg-risk-platform.streamlit.app/)
 ---
 
 ## 📄 License
